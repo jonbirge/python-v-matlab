@@ -1,2 +1,3 @@
 # python-v-matlab
-The Python versus MATLAB smackdown nobody has been waiting for
+
+Some benchmarks to test Python speed versus MATLAB for scientific computing, and compare syntax and usability. (I love both, so there's no agenda here.)
